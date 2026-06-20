@@ -113,5 +113,5 @@ MIT — free to fork, use, and build upon. The knowledge belongs to everyone.
 
 ---
 
-*Built by **Rastislav Drahoš** — epistemology engineer, vault architect, founder of CSRD Comply*
+*Built by **DanceNitra** — epistemology engineer, vault architect, founder of CSRD Comply*
 *"Certainty is cheap and internal; truth is expensive and external."*
