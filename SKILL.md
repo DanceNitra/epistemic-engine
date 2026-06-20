@@ -724,9 +724,15 @@ if __name__ == "__main__":
 
 ## GitHub & Distribution
 
+**repo:** `https://github.com/DanceNitra/epistemic-engine`  
+**Pages:** `https://dancenitra.github.io/epistemic-engine/`  
+**License:** MIT — fork, use, build upon
+
 ```bash
-git clone https://github.com/DanceNitra/epistemic-skills.git
-# or just copy engine.py — it's self-contained
+git clone https://github.com/DanceNitra/epistemic-engine.git
+cd epistemic-engine
+# No deps needed (0-dependency fallback)
+python engine.py claim "Phase transitions occur at 72% criticality"
 ```
 
 ## How to Contribute
